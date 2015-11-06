@@ -9,6 +9,7 @@ Tools for working with electronics.
 |---|---------------------------|--------:|
 | ? |multimeter | |
 | ? |variable dc power supply | |
+| ? |osciloscope | |
 | ? |breadboard | |
 | ? |breadboard power supply | |
 | ? |wall adapter | |

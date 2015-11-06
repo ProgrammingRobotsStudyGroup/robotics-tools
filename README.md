@@ -14,3 +14,5 @@ Categories
 - [wiring](wiring.md) - wiring for connecting electrical components
 - [electronics](electronics.md) - tools for powering electrical components
 - [general](general.md) - miscellaneous tools that are helpful
+
+[Robot Garden Workshop](http://www.robotgarden.org/workshop/#programs)
