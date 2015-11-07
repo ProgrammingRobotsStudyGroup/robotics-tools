@@ -11,4 +11,11 @@
 | ? |vice | |
 | ? |cnc mill | |
 | ? |lathe | |
+| ? |vacuum forming machine | |
+| ? |metal benders | |
+| ? |metal nibblers | |
+| ? |zip ties | |
+| ? |logic analyzer | |
+
+
 

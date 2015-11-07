@@ -20,8 +20,9 @@ projects.
 | ? |solder lead free | |
 | ? |desolderer | |
 | ? |hookup wire (22 gauge) | |
-| ? |heat shrink | |
+| ? |heat shrink tube | |
 | ? |conductive ink | |
+| ? |berg strip | |
 
 ## Skills
 
