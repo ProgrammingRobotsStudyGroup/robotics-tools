@@ -8,7 +8,7 @@ projects.
 
 |@RG|Tool                       |Avg Cost |
 |---|---------------------------|--------:|
-| ? |wire cutters | |
+| Y |wire cutters | |
 | ? |wire strippers | |
 | ? |wire strippers | |
 | ? |crimper | |
@@ -16,10 +16,10 @@ projects.
 | Y |soldering station | |
 | Y |brass sponge | |
 | ? |flux | |
-| ? |solder 60/40 lead | |
-| ? |solder lead free | |
+| Y |solder 60/40 lead | |
+| Y |solder lead free | |
 | ? |desolderer | |
-| ? |hookup wire (22 gauge) | |
+| Y |hookup wire (22 gauge) | |
 | ? |heat shrink tube | |
 | ? |conductive ink | |
 | ? |berg strip | |
