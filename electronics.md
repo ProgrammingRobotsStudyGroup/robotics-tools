@@ -28,6 +28,7 @@ Also see: [wiring](wiring.md)
 - [ ] making a breadboard for a project
 - [ ] connecting power supply to a component
 - [ ] describe difference between battery materials
+- [ ] cut and reuse wall adapters to wire a breadboard
 
 ## References / Tutorials
 
