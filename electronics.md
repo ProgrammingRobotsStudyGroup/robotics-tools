@@ -32,7 +32,6 @@ Also see: [wiring](wiring.md)
 
 ## References / Tutorials
 
-[Getting the Right Tools](http://www.robotshop.com/blog/en/how-to-make-a-robot-lesson-8-getting-the-right-tools-3680): Robot Shop tutorial on essential, intermediate, and ultimate tools for working with electronics.
 
 [About Batteries](http://www.societyofrobots.com/batteries.shtml): background
 information on battery types and materials
